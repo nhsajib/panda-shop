@@ -1,0 +1,12 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ProductSpecification extends Model
+{
+    protected $fillable = [
+        'product_id', 'spec_name', 'spec_details',
+    ];
+}
