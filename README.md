@@ -9,4 +9,4 @@
 </p>
 
 ## About This Project
-    Laravel Vue Starter Kit
+    Unfinished ecommerce project
